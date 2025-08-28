@@ -1,0 +1,8 @@
+{
+    "produtos": [
+        {"nome": "PlayStation 5", "preço": "R$ 3.500,00", "descriçao": "Videogame da Sony, quinta geração do PlayStation.", "categoria": "Videogame"},
+        {"nome": "Xbox Series X", "preço": "R$ 3.500,00", "descriçao": "Videogame da Microsoft, quarta geração do Xbox.", "categoria": "Videogame"},
+        {"nome": "iPhone 16", "preço": "R$ 5.000,00", "descriçao": "Smartphone da Apple", "categoria": "Celular"},
+        {"nome": "Galaxy S25", "preço": "R$ 4.000,00", "descriçao": "Smartphone da Samsung.", "categoria": "Celular"}
+    ]
+}
